@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day16-17\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\netcoreapp3.1\DataStructureAndAlgorithm.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day16-17\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\netcoreapp3.1\DataStructureAndAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day16-17\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\netcoreapp3.1\DataStructureAndAlgorithm.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day16-17\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\netcoreapp3.1\DataStructureAndAlgorithm.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day16-17\DataStructureAndAlgorithm\DataStructureAndAlgorithm\obj\Debug\netcoreapp3.1\DataStructureAndAlgorithm.csproj.CoreCompileInputs.cache
